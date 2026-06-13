@@ -3,6 +3,9 @@
 **Author:** Kranthi Kumar Palina
 **Base data:** Independent 82-user telecom survey (2023-2026), Bavajipeta, Dusipeta, and Dusi villages, Srikakulam district, Andhra Pradesh
 
+**Live demo:** [Try the churn predictor app](https://telecom-churn-prediction-ymwhak4uevt7mx64wd3auj.streamlit.app/)
+
+
 ## Background
 
 Over three years, I conducted a door-to-door survey of 82 mobile users (50 Jio, 28 Airtel, 4 BSNL) to understand real-world network issues in rural areas. The survey collected information on signal quality, billing complaints, plan-vs-actual speed mismatches, and switching behavior. Key findings included:
