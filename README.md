@@ -11,6 +11,8 @@ Over three years, I conducted a door-to-door survey of 82 mobile users (50 Jio, 
 - 100% of Jio users reported receiving 3 promotional calls daily after balance expiry
 - 100% of all 82 users reported paying for 5G plans but experiencing 4G-level speeds at home
 - ~60% of Airtel users reported having switched providers
+  
+![Survey Findings](survey_complaints.png)
 
 ## From Survey to Machine Learning
 
@@ -38,6 +40,8 @@ I trained a **Logistic Regression** classifier (scikit-learn) using features suc
 ## Key Insight
 
 The most interesting finding was that **a small, repeated annoyance (the ₹3 PhonePe surcharge) was a stronger predictor of churn than the headline issue (5G plans delivering only 4G speeds)**. This suggests that for telecom providers, addressing minor recurring frustrations may have an outsized impact on customer retention compared to addressing larger infrastructure issues alone.
+
+![Top Churn Predictors](churn_predictors.png)
 
 ## Limitations and Honest Caveats
 
